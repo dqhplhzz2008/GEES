@@ -16,4 +16,4 @@
 ## 联系作者
 可发送电子邮件至：ultramannexus@vip.qq.com，也可以关注我的公众号留言。<br>
 ![](https://github.com/dqhplhzz2008/dqhplhzz2008.github.io/raw/master/weixingongzhonghao.jpg)  <br>
-欢迎关注[我的博客](http://www.yushuai.me)！
+欢迎关注[我的博客](http://www.yushuai.xyz)！
